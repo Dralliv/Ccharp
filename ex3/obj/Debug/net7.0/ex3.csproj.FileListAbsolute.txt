@@ -1,0 +1,15 @@
+G:\Meu Drive\PROGRAMACAO\ex3\bin\Debug\net7.0\ex3.exe
+G:\Meu Drive\PROGRAMACAO\ex3\bin\Debug\net7.0\ex3.deps.json
+G:\Meu Drive\PROGRAMACAO\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+G:\Meu Drive\PROGRAMACAO\ex3\bin\Debug\net7.0\ex3.dll
+G:\Meu Drive\PROGRAMACAO\ex3\bin\Debug\net7.0\ex3.pdb
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.csproj.AssemblyReference.cache
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.dll
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\refint\ex3.dll
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.pdb
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+G:\Meu Drive\PROGRAMACAO\ex3\obj\Debug\net7.0\ref\ex3.dll

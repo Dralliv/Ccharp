@@ -1,0 +1,15 @@
+G:\Meu Drive\PROGRAMACAO\ex2\bin\Debug\net7.0\ex2.exe
+G:\Meu Drive\PROGRAMACAO\ex2\bin\Debug\net7.0\ex2.deps.json
+G:\Meu Drive\PROGRAMACAO\ex2\bin\Debug\net7.0\ex2.runtimeconfig.json
+G:\Meu Drive\PROGRAMACAO\ex2\bin\Debug\net7.0\ex2.dll
+G:\Meu Drive\PROGRAMACAO\ex2\bin\Debug\net7.0\ex2.pdb
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.csproj.AssemblyReference.cache
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.AssemblyInfoInputs.cache
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.AssemblyInfo.cs
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.dll
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\refint\ex2.dll
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.pdb
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ex2.genruntimeconfig.cache
+G:\Meu Drive\PROGRAMACAO\ex2\obj\Debug\net7.0\ref\ex2.dll
