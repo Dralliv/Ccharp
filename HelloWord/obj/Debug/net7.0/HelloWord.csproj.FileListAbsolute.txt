@@ -1,0 +1,15 @@
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\bin\Debug\net7.0\HelloWord.exe
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\bin\Debug\net7.0\HelloWord.deps.json
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\bin\Debug\net7.0\HelloWord.runtimeconfig.json
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\bin\Debug\net7.0\HelloWord.dll
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\bin\Debug\net7.0\HelloWord.pdb
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.csproj.AssemblyReference.cache
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.AssemblyInfoInputs.cache
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.AssemblyInfo.cs
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.dll
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\refint\HelloWord.dll
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.pdb
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\HelloWord.genruntimeconfig.cache
+G:\Meu Drive\PROGRAMACAO\helloWorld\HelloWord\obj\Debug\net7.0\ref\HelloWord.dll
