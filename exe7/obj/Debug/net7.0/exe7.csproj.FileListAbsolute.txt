@@ -1,0 +1,15 @@
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.csproj.AssemblyReference.cache
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.AssemblyInfoInputs.cache
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.AssemblyInfo.cs
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.csproj.CoreCompileInputs.cache
+F:\Repositorios\Ccharp\exe7\bin\Debug\net7.0\exe7.exe
+F:\Repositorios\Ccharp\exe7\bin\Debug\net7.0\exe7.deps.json
+F:\Repositorios\Ccharp\exe7\bin\Debug\net7.0\exe7.runtimeconfig.json
+F:\Repositorios\Ccharp\exe7\bin\Debug\net7.0\exe7.dll
+F:\Repositorios\Ccharp\exe7\bin\Debug\net7.0\exe7.pdb
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.dll
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\refint\exe7.dll
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.pdb
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\exe7.genruntimeconfig.cache
+F:\Repositorios\Ccharp\exe7\obj\Debug\net7.0\ref\exe7.dll
