@@ -1,0 +1,15 @@
+F:\Repositorios\Ccharp\exe5n\bin\Debug\net7.0\exe5n.exe
+F:\Repositorios\Ccharp\exe5n\bin\Debug\net7.0\exe5n.deps.json
+F:\Repositorios\Ccharp\exe5n\bin\Debug\net7.0\exe5n.runtimeconfig.json
+F:\Repositorios\Ccharp\exe5n\bin\Debug\net7.0\exe5n.dll
+F:\Repositorios\Ccharp\exe5n\bin\Debug\net7.0\exe5n.pdb
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.csproj.AssemblyReference.cache
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.AssemblyInfoInputs.cache
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.AssemblyInfo.cs
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.csproj.CoreCompileInputs.cache
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.dll
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\refint\exe5n.dll
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.pdb
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\exe5n.genruntimeconfig.cache
+F:\Repositorios\Ccharp\exe5n\obj\Debug\net7.0\ref\exe5n.dll
