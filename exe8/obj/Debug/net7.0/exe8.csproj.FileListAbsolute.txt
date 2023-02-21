@@ -1,0 +1,15 @@
+G:\Meu Drive\Repositorios\exe8\bin\Debug\net7.0\exe8.exe
+G:\Meu Drive\Repositorios\exe8\bin\Debug\net7.0\exe8.deps.json
+G:\Meu Drive\Repositorios\exe8\bin\Debug\net7.0\exe8.runtimeconfig.json
+G:\Meu Drive\Repositorios\exe8\bin\Debug\net7.0\exe8.dll
+G:\Meu Drive\Repositorios\exe8\bin\Debug\net7.0\exe8.pdb
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.csproj.AssemblyReference.cache
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.AssemblyInfoInputs.cache
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.AssemblyInfo.cs
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.dll
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\refint\exe8.dll
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.pdb
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\exe8.genruntimeconfig.cache
+G:\Meu Drive\Repositorios\exe8\obj\Debug\net7.0\ref\exe8.dll

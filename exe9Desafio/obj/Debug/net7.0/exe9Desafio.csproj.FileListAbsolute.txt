@@ -1,0 +1,15 @@
+G:\Meu Drive\Repositorios\exe9Desafio\bin\Debug\net7.0\exe9Desafio.exe
+G:\Meu Drive\Repositorios\exe9Desafio\bin\Debug\net7.0\exe9Desafio.deps.json
+G:\Meu Drive\Repositorios\exe9Desafio\bin\Debug\net7.0\exe9Desafio.runtimeconfig.json
+G:\Meu Drive\Repositorios\exe9Desafio\bin\Debug\net7.0\exe9Desafio.dll
+G:\Meu Drive\Repositorios\exe9Desafio\bin\Debug\net7.0\exe9Desafio.pdb
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.csproj.AssemblyReference.cache
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.AssemblyInfoInputs.cache
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.AssemblyInfo.cs
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.dll
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\refint\exe9Desafio.dll
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.pdb
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\exe9Desafio.genruntimeconfig.cache
+G:\Meu Drive\Repositorios\exe9Desafio\obj\Debug\net7.0\ref\exe9Desafio.dll
